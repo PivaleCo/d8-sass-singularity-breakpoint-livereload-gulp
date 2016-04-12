@@ -1,0 +1,19 @@
+name: Real Life Digital
+type: theme
+description: A red theme for the Real Life Digital website!
+package: themes
+core: 8.x
+screenshot: screenshot.jpg
+
+base theme: classy
+
+libraries:
+  - reallifedigital/global
+
+stylesheets-remove:
+
+regions:
+  header: 'Header'
+  content: 'Main Content'
+  footer: 'Footer'
+  copyright: 'Copyright'

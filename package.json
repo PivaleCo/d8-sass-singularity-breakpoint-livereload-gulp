@@ -1,0 +1,30 @@
+{
+  "name": "your_project_name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "breakpoint-sass": "^2.6.1",
+    "compass-mixins": "^0.12.7",
+    "singularitygs": "^1.6.2",
+    "gulp-watch": "^4.3.5"
+  },
+  "devDependencies": {
+    "gulp-cssmin": "^0.1.7",
+    "gulp-livereload": "^3.8.1",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglify": "^1.4.1",
+    "gulp-uncss": "^1.0.3",
+    "modularscale-sass": "^2.1.1",
+    "node-sass-globbing": "0.0.23"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
